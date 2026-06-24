@@ -14,7 +14,8 @@ Person, die gerne Neues lernt und sich stetig weiterentwickelt.
 
 Durch mehrere Schnupperlehren in der IT-Branche konnte ich bereits erste
 praktische Erfahrungen sammeln und einen guten Einblick in die Berufswelt der
-Informatik gewinnen.
+Informatik gewinnen. Ich habe bei ihnen in der Komax AG und es hat mir bis jetzt am besten gefallen,
+deswegen möchte ich mich bei ihnen für die lehrstelle mich bewerben.
 </p>
 
 </div>
@@ -78,7 +79,7 @@ Informatik gewinnen.
 
 <div class="card">
 <ul>
-<li>⚽ Fussball spielen</li>
+<li>⚽ Fussball spielen aktiv in einem verein</li>
 <li>💻 Am Computer neue IT-Kenntnisse erlernen</li>
 <li>🚀 Eigene Fortschritte in der Informatik machen</li>
 </ul>
